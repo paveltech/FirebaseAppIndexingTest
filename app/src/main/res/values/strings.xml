@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseAppIndexingTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_songs">Songs</string>
+</resources>
